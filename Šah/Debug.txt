@@ -1,0 +1,35 @@
+  Kralj   5  0
+   Top    1  0
+  Konj    2  0
+  Lovac   3  0
+Kraljica  4  0
+  Lovac   6  0
+  Konj    7  0
+   Top    8  0
+  Pijun   9  0
+  Pijun   10 0
+  Pijun   11 0
+  Pijun   12 0
+  Pijun   13 0
+  Pijun   14 0
+  Pijun   47 1
+  Pijun   16 0
+
+  Kralj   61 0
+   Top    57 0
+  Konj    58 0
+  Lovac   59 0
+Kraljica  60 0
+  Lovac   62 0
+  Konj    63 0
+   Top    64 0
+  Pijun   49 0
+  Pijun   50 0
+  Pijun   51 0
+  Pijun   52 0
+  Pijun   53 0
+  Pijun   54 0
+  Pijun   55 0
+  Pijun   56 0
+
+0
